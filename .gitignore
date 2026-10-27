@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -36,3 +37,6 @@ dist/
 # Local development files
 .DS_Store
 Thumbs.db
+=======
+
+>>>>>>> 15182df65f5772f99fc1d47e3042ea63e83dc86a
